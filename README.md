@@ -1,4 +1,4 @@
-Yelp-Project-in-identifyimg-categories-and-projecting-top-5-positives-and-negatives
+Yelp-Project-in-identifying-categories-and-projecting-top-5-positives-and-negatives
 ===================================================================================
 
 Yelp - project in Identifying categories for business and finding top positives/negatives about business
