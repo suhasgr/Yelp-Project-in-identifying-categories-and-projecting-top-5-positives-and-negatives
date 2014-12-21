@@ -64,7 +64,6 @@ Task
 
 It isn very cumbersome to read all reviews and come up with conclusion that what is good in the business or what is bad 
 about it. More over the review are more subjective. 
-So we have implemented to know top five positives and top five negatives about the business using Lucene, StanforNLP 
 and other frameworks.
 
 
